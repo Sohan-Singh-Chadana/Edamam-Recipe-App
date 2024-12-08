@@ -64,3 +64,6 @@ The Edamam Recipes App is a portfolio project showcasing expertise in React and 
 
 The Edamam Recipes App combines the power of Redux Toolkit with React to create an efficient, scalable, and feature-rich recipe discovery platform, making it an excellent addition to a portfolio.
 
+## Project Demo
+<a href="https://edamam-recipes.netlify.app/" target="_blank">View Project Live Demo </a>
+
